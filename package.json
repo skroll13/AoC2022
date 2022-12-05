@@ -1,0 +1,19 @@
+{
+  "name": "aoc2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "20221201_01_Solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skroll13/AoC2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skroll13/AoC2022/issues"
+  },
+  "homepage": "https://github.com/skroll13/AoC2022#readme"
+}
